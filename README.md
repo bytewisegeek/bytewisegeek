@@ -9,13 +9,9 @@ QA Automation Engineer • AI Engineering Enthusiast • Developer Tooling Build
 Building automation systems, AI-powered engineering workflows, and repository intelligence tools.
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+%7C+API+Testing+%7C+AI+Engineering;Building+Developer+Tooling;Repository+Graph+Systems+%26+AI+Workflows" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bytewisegeek&label=Profile%20Views&color=0e75b6&style=flat" />
