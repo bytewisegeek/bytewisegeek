@@ -1,145 +1,172 @@
+```md
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 
 <h3 align="center">
-QA Engineer | Automation Engineer | AI Engineering Enthusiast
+QA Automation Engineer • AI Engineering Enthusiast • Developer Tooling Builder
 </h3>
 
----
-
-# 🚀 About Me
-
-- 🔭 Currently working on:
-  - AI-powered developer tooling
-  - Automation frameworks
-  - Repository intelligence systems
-  - Playwright-based testing frameworks
-
-- 🌱 Currently learning:
-  - AI Engineering
-  - LLM Systems
-  - RAG Architectures
-  - Code Graph Systems
-  - Distributed Systems
-
-- 👨‍💻 Interests:
-  - QA Automation
-  - AI Agents
-  - Repository Parsing
-  - Neo4j Graph Systems
-  - Scalable Test Infrastructure
-
-- ⚡ Fun fact:
-  I enjoy building systems that combine AI + Automation + Developer Productivity.
+<p align="center">
+Building automation systems, AI-powered engineering workflows, and repository intelligence tools.
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+%7C+API+Testing+%7C+AI+Engineering;Building+Developer+Tooling;Repository+Graph+Systems+%26+AI+Workflows" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytewisegeek&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- Playwright automation frameworks
+- API + UI automation architecture
+- AI-powered developer tooling
+- Repository graph generation systems
+- Neo4j-based code intelligence
+- Learning LLM engineering & RAG systems
+
+---
+
+# 🧠 Areas of Interest
+
+- QA Automation
+- AI Engineering
+- Repository Parsing
+- Graph Databases
+- Test Infrastructure
+- Developer Productivity Tools
+- Code Intelligence Systems
+
+---
+
+# ⚙️ Tech Stack
 
 ## Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" />
 </p>
 
-## QA & Automation
+## Automation & Testing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,pytest" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
-<p>
-  Playwright • REST Assured • Postman • TestNG • API Testing
-</p>
+Playwright • Postman • API Testing • TestNG
 
 ## Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,docker" />
 </p>
 
-<p>
-  Neo4j • Redis • PostgreSQL
-</p>
+Neo4j
 
-## AI / Developer Tooling
+## DevOps & Tools
 
-<p>
-  LangChain • RAG • Vector Databases • LLM Evaluation • AI Agents
-</p>
-
-## DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,vscode" />
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-## 🔹 Repository Intelligence Engine
-AI-ready repository graph generation system.
+## 🔹 API + UI Playwright Framework
 
-### Features
-- Multi-language parsing
-- Dependency graph generation
-- Neo4j integration
-- AI context generation
-- Architecture visualization
-
----
-
-## 🔹 Playwright Automation Framework
-Enterprise-grade UI + API automation framework.
-
-### Features
-- API + UI hybrid testing
-- CI/CD integration
-- Reporting dashboards
-- Retry strategies
+Enterprise-grade automation framework with:
+- API + UI testing
 - Parallel execution
+- Reporting integration
+- Retry strategies
+- CI/CD support
 
 ---
 
-## 🔹 AI Test Case Generator
-LLM-powered intelligent test generation platform.
+## 🔹 Repository Graph Engine
 
-### Features
-- User story parsing
-- Edge case generation
-- Automated test planning
-- Risk analysis
+Codebase intelligence platform for:
+- dependency graph generation
+- repository visualization
+- Neo4j export
+- architecture analysis
+- AI-ready repository context
 
 ---
 
-# 📊 GitHub Stats
+## 🔹 AI TestMind
+
+AI-assisted testing platform.
+
+Features:
+- user story analysis
+- edge-case generation
+- automated test planning
+- intelligent testing workflows
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytewisegeek&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bytewisegeek&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytewisegeek&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bytewisegeek&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewisegeek&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewisegeek&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bytewisegeek&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytewisegeek&theme=tokyo-night" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build impactful open-source Python libraries
+- Contribute to AI engineering ecosystem
+- Design scalable automation frameworks
+- Build repository intelligence systems
+- Create developer productivity tooling
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/bytewisegeek">GitHub</a>
+<p align="left">
+  <a href="https://github.com/bytewisegeek">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-# 🎯 Current Goals
-
-- Build impactful open-source libraries
-- Contribute to AI engineering ecosystem
-- Design scalable automation frameworks
-- Learn advanced distributed systems
-- Create developer productivity tooling
+<p align="center">
+  <i>"Building systems that combine AI, Automation, and Engineering Intelligence."</i>
+</p>
+```
