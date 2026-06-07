@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 
 <h3 align="center">
@@ -165,4 +164,3 @@ Features:
 <p align="center">
   <i>"Building systems that combine AI, Automation, and Engineering Intelligence."</i>
 </p>
-```
